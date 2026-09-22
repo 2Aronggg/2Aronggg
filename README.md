@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=2Aronggg&label=Profile%20views&color=ff8fab&style=flat" alt="2Aronggg" />
 </p>
 
-- Double major in **Mathematics** &amp; **Big Data**, Sungshin Women's University
+- Double major in **Mathematics** &amp; **Big Data science**
 - Focused on **AI/data-driven projects**
 - contact: **achim9102129@gmail.com**
 
@@ -20,8 +20,23 @@ Exploring various applications of AI —
 - LLM
 - RAG (Retrieval-Augmented Generation)
 - Data Analysis & Backtesting
-- Audio/Accessibility AI
 
+### Activities & Awards
+
+| Period | Item | Detail |
+|---|---|---|
+| 2026.04~ | Hana Young Financial Talent education | 160hrs of training in financial data analysis & LLM/RAG agent modeling |
+| 2026.04~ | Hana Young Financial Talent Competition | Hana Financial Group |
+
+
+### Certifications
+
+| Certification | Status |
+|---|---|
+| ADSP (Advanced Data Analytics Semi-Professional) | Certified |
+| SQLD (SQL Developer) | Certified |
+| 투자자산운용사 (Investment Asset Manager) | Certified |
+| AFPK (Associate Financial Planner Korea) | Module 1 passed · Module 2 in progress |
 
 ### Tech Stack
 <p align="left">
@@ -48,3 +63,13 @@ Exploring various applications of AI —
 <p align="center">
   <img src="https://raw.githubusercontent.com/2Aronggg/2Aronggg/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+
