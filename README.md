@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Arong (이아형)</h1>
-<h3 align="center">Math &amp; Big Data student building AI-driven projects</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fab&height=180&section=header&text=Hi,%20I'm%20Ah-hyung%20&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=D6336C&center=true&vCenter=true&width=500&lines=Math+%26+Big+Data+science+major+Student;Building+AI-driven+Projects;LLM+%7C+Agent+%7C+Data+Analysis" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2Aronggg&label=Profile%20views&color=ff8fab&style=flat" alt="2Aronggg" />
@@ -7,7 +12,13 @@
 
 - Double major in **Mathematics** &amp; **Big Data**, Sungshin Women's University
 - Focused on **AI/data-driven projects**
-- **achim9102129@gmail.com**
+- contact: **achim9102129@gmail.com**
+
+### Interests
+- LLM
+- AI Agent
+- Data Analysis & Backtesting
+- Computer Vision
 
 ### Tech Stack
 <p align="left">
@@ -15,20 +26,22 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ### Projects
-- Ko-ActiveETF
-- Stock Hear
-- WeldScan
-- 하나 큐로컬
-- 로제니
+- BITA-Active_ETF (https://github.com/2Aronggg/BITA-Active_ETF)
+- Stock-Hear (https://github.com/2Aronggg/Stock-Hear)
+- k-shipbuild-hackathon (https://github.com/2Aronggg/k-shipbuild-hackathon)
+- hana-EZPZ (https://github.com/2Aronggg/hana-EZPZ)
+- ROJENNIE (https://github.com/2Aronggg/ROJENNIE)
 
-### GitHub Stats
+### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2Aronggg&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=d6336c&text_color=6b4750&icon_color=ff8fab" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2Aronggg&hide_border=true&background=fff0f5&ring=ff8fab&fire=d6336c&currStreakLabel=d6336c" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Aronggg&layout=compact&hide_border=true&bg_color=fff0f5&title_color=d6336c&text_color=6b4750" height="165"/>
+  <img src="https://raw.githubusercontent.com/2Aronggg/2Aronggg/output/github-contribution-grid-snake.svg" />
 </p>
