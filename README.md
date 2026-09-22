@@ -14,11 +14,14 @@
 - Focused on **AI/data-driven projects**
 - contact: **achim9102129@gmail.com**
 
+  
 ### Interests
+Exploring various applications of AI —
 - LLM
-- AI Agent
+- RAG (Retrieval-Augmented Generation)
 - Data Analysis & Backtesting
-- Computer Vision
+- Audio/Accessibility AI
+
 
 ### Tech Stack
 <p align="left">
