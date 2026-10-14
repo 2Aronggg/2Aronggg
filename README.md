@@ -84,10 +84,7 @@ Exploring various applications of AI —
 | Project | Description | Context |
 |---|---|---|
 | [ROJENNIE](https://github.com/2Aronggg/ROJENNIE) | 금융 민원 지원 RAG 에이전트 (KB Key Buddy)  | 8th KB AI Challenge |
-| [Stock-Hear](https://github.com/2Aronggg/Stock-Hear) | 시각장애인을 위한 실시간 주식정보 소리화 웹서비스  | 2026 금융 AI Challenge |
 | [hana-EZPZ](https://github.com/2Aronggg/hana-EZPZ) | 외국인 관광객 대상 스테이블코인 QR 결제 플랫폼 | 하나 청년 금융인재 공모전 |
-| [k-shipbuild-hackathon](https://github.com/2Aronggg/k-shipbuild-hackathon) | WeldScan AI — 용접 결함 탐지 및 보고서 자동생성 시스템 | 2026 K-조선 해커톤 |
-| [BITA-Active_ETF](https://github.com/2Aronggg/BITA-Active_ETF) | 수급 강도 기반 액티브 ETF 설계 및 백테스팅 | 비타민 학회 프로젝트 |
 
 ### Contribution Graph
 <p align="center">
